@@ -1,0 +1,39 @@
+h1{
+    color:rgb(23, 68, 53);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body{
+    background-color: #3c6b59;
+}
+.header{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    color: rgb(245, 245, 220);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading2{
+    color: rgb(245, 245, 220);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.item{
+    color: rgb(245, 245, 220);
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: left;
+}
